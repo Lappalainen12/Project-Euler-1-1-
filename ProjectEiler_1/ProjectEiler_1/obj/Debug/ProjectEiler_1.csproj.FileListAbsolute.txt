@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ProjectEiler_1\ProjectEiler_1\bin\Debug\ProjectEiler_1.exe.config
+C:\Users\USER\source\repos\ProjectEiler_1\ProjectEiler_1\bin\Debug\ProjectEiler_1.exe
+C:\Users\USER\source\repos\ProjectEiler_1\ProjectEiler_1\bin\Debug\ProjectEiler_1.pdb
+C:\Users\USER\source\repos\ProjectEiler_1\ProjectEiler_1\obj\Debug\ProjectEiler_1.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ProjectEiler_1\ProjectEiler_1\obj\Debug\ProjectEiler_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ProjectEiler_1\ProjectEiler_1\obj\Debug\ProjectEiler_1.exe
+C:\Users\USER\source\repos\ProjectEiler_1\ProjectEiler_1\obj\Debug\ProjectEiler_1.pdb
